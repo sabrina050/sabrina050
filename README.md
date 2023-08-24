@@ -1,16 +1,13 @@
-### Hi there 👋
+### boa vindas ao meu perfil 💙
 
-<!--
-**sabrina050/sabrina050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Sabrina Eduarda 
 
-Here are some ideas to get you started:
+Estou estudando na Alura 
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo espaço para ainda organizaçao e compartilhamento dos meus projetos e desenvolvimentso 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media.tenor.com/W_iZ7rzeL9MAAAAC/hi-hello.gifhttps://media.tenor.com/W_iZ7rzeL9MAAAAC/hi-hello.gif)
+
+### você quer entrar em contato comiigo 📫
+
+sabrina.noronha.pereira@escola.pr.gov.br
